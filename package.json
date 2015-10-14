@@ -1,0 +1,25 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "Get random Star Wats names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maruf-nc/starwars-names.git"
+  },
+  "keywords": [
+    "star"
+  ],
+  "author": "Maruf Siddiqui <maruf2006@gmail.com> (http://maruf-nc.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maruf-nc/starwars-names/issues"
+  },
+  "homepage": "https://github.com/maruf-nc/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
